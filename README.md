@@ -1,1 +1,1 @@
-#In my spare time I enjoy coding and solving simple problems and visualizing the results. This here is a collection of such problems that I found to be fun to solve. They are collected from a vareity of different sources.
+In my spare time I enjoy coding and solving simple problems and visualizing the results. This here is a collection of such problems that I found to be fun to solve. They are collected from a vareity of different sources.
